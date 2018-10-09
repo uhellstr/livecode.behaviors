@@ -1,4 +1,4 @@
-# livecode scriptonly stacks
+# LiveCode scriptonly stacks
 
 Using livecode script only stack to make it easier to put sourcecode outside of LiveCode binary.
 
