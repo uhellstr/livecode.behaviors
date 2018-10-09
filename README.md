@@ -1,4 +1,5 @@
-# livecode.behaviors
+# livecode script only stacks
+
 Using livecode script only stack to make it easier to put sourcecode outside of LiveCode binary.
 
 This gives a LiveCode developer a much better way of handong sourcecode with a version control system like git.
