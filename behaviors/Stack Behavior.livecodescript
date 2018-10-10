@@ -9,7 +9,7 @@
 --* See Object -> Stack Inspector -> Advanced
 --*
 --* To link another scriptonly script to the demo stack use Object and then
---* eiter the Stack or Card inspector. Then choose Advanded in the inspector
+--* either the Stack or Card inspector. Then choose Advanded in the inspector
 --* and then "Crate behavior from script only stack"
 --*    -> "Create stack with empty script"
 --* Save the empty script in the behaviors folder for easier maintanence of
